@@ -4,7 +4,7 @@ To use API - it returns json objects
 
 1) Create a new user entry - pass a dictionary.
 
-/CreateUser
+/create_user
 
 Eg: http://127.0.0.1:8000/create_user
 
@@ -23,7 +23,7 @@ Eg: http://127.0.0.1:8000/user_info/nishikaithwas2000@gmail.com
 
 5) update data of a user by providing his/her email.
 
-/UpdateAnEntry/<email goes here>
+/update_an_entry/<email goes here>
 
 Eg : http://127.0.0.1:8000/update_an_entry/nishikaithwas2000@gmail.com
   
