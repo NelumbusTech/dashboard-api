@@ -14,3 +14,9 @@ The program following three functions/modules
 2) pdf_first_page_header - prints user name in bold on the first page of the pdf only.
 
 3) pdf_serializer - generates the resume from JSON data.
+
+#The steps to run the program are as follows:-
+
+1) Download the source code from the repository.
+2) Now, put the fonts(.ttf) files and the python program(.py) in the same folder/directory.
+3) Run the program using suitable python IDE.
