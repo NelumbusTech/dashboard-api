@@ -17,3 +17,4 @@ The program following three functions/modules
 1) Download the source code from the repository.
 2) Now, put the fonts(.ttf) files and the python program(.py) in the same folder/directory.
 3) Run the program using suitable python IDE.
+4) The resume (in PDF format) will be generated and saved in the same directory as program and font files.
